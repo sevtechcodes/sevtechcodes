@@ -20,6 +20,8 @@ I craft user-centric web experiences with the power of code.
 
 I am an enthusiastic Full-Stack Developer, motivated by a desire for learning and an ambition for self-improvement. I have a strong ability to design, develop, and deploy robust web applications across the entire tech stack. I thrive in collaborative environments and enjoy tackling complex challenges to deliver user-centric solutions.
 
+🌱 I’m currently learning AWS.
+
 🌟 I'm honing my skills and embracing new technologies to stay at the forefront of the industry.
 
 💼 My projects, showcasing a blend of experience and innovation, are available at [https://github.com/sevtechcodes](https://github.com/sevtechcodes).
@@ -59,7 +61,6 @@ Connect with me:
 ![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
-![SDLC](https://img.shields.io/badge/-SDLC-black?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square)
 ![Testing](https://img.shields.io/badge/-Testing-black?style=flat-square)
 ![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square)
@@ -88,7 +89,7 @@ Connect with me:
 
 | Project   | Tech Stack             | Repo   |
 |-----------|------------------------|--------|
-| EquipMate | Nextjs · TypeScript · Tailwind CSS · Clerks · PostgreSQL · Prisma ORM · Socket.io | [Github](https://github.com/sevtechcodes/friendswithtools) |
-| Sixtran | Next.js · TypeScript · Tailwind CSS · Vitest · Cypress | [Github](https://github.com/sevtechcodes/sixtran) |
-| Recallify | Node.js · Express.js · JavaScript · MongoDB · Firebase · Vanilla CSS · Mongoose · Web Speech API| [Github](https://github.com/sevtechcodes/recallify) | 
+| EquipMate | Nextjs · TypeScript · Tailwind CSS · Clerks Auth · PostgreSQL · Prisma ORM · Socket.io · Firebase Storage |
+| Sixtran | Next.js · TypeScript · Tailwind CSS · Vitest · Cypress |
+| Recallify | Node.js · Express.js · JavaScript · MongoDB · Firebase Auth & Storage · Vanilla CSS & Tailwind · Mongoose · Web Speech API| [Github](https://github.com/sevtechcodes/recallify) | 
 
