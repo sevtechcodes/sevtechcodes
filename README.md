@@ -87,8 +87,8 @@ Connect with me:
 
 ## Work
 
-| Project   | Tech Stack             | Repo   |
-|-----------|------------------------|--------|
+| Project   | Tech Stack             | 
+|-----------|------------------------|
 | EquipMate | Nextjs · TypeScript · Tailwind CSS · Clerks Auth · PostgreSQL · Prisma ORM · Socket.io · Firebase Storage |
 | Sixtran | Next.js · TypeScript · Tailwind CSS · Vitest · Cypress |
 | Logotron | Javascript · HTML · Vanilla CSS · Bootstrap · PHP  · JQuery|
@@ -97,6 +97,5 @@ Connect with me:
 
 | Project   | Tech Stack             | Repo   |
 |-----------|------------------------|--------|
-| Recallify | Node.js · Express.js · JavaScript · MongoDB · Firebase Auth & Storage · Vanilla CSS & Tailwind · Mongoose · Web Speech API| [Github](https://github.com/sevtechcodes/recallify) | 
 | Recallify | Node.js · Express.js · JavaScript · MongoDB · Firebase Auth & Storage · Vanilla CSS & Tailwind · Mongoose · Web Speech API| [Github](https://github.com/sevtechcodes/recallify) | 
 
