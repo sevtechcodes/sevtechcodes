@@ -29,7 +29,7 @@ I am an enthusiastic Full-Stack Developer, motivated by a desire for learning an
 📫 Reach out to me at: sevim@joseph.co.in
 
 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/sevimjoseph)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/sevimtasjoseph-softwareengineer)
 
 ## Languages and Tools:
 
