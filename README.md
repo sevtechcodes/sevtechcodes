@@ -20,8 +20,6 @@ I craft user-centric web experiences with the power of code.
 
 I am an enthusiastic Full-Stack Developer, motivated by a desire for learning and an ambition for self-improvement. I have a strong ability to design, develop, and deploy robust web applications across the entire tech stack. I thrive in collaborative environments and enjoy tackling complex challenges to deliver user-centric solutions.
 
-🌱 I’m currently learning AWS.
-
 🌟 I'm honing my skills and embracing new technologies to stay at the forefront of the industry.
 
 💼 My projects, showcasing a blend of experience and innovation, are available at [https://github.com/sevtechcodes](https://github.com/sevtechcodes).
